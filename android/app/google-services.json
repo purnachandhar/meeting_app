@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "860749772223",
-    "project_id": "testcalliing",
-    "storage_bucket": "testcalliing.appspot.com"
+    "project_number": "996154222634",
+    "project_id": "dotstancemeeting",
+    "storage_bucket": "dotstancemeeting.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:860749772223:android:c5efb612459e910b519d0a",
+        "mobilesdk_app_id": "1:996154222634:android:63ccc2d025cb33313bfb53",
         "android_client_info": {
-          "package_name": "com.example.video_call"
+          "package_name": "com.dotstance.meeting.application"
         }
       },
       "oauth_client": [
         {
-          "client_id": "860749772223-nu9dfkg3fmisc19ud6en8tcq5eeus3l8.apps.googleusercontent.com",
+          "client_id": "996154222634-0v1ju339cuk6a86n9ohrbrluqu91d7tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotstance.meeting.application",
+            "certificate_hash": "09a374756dcd7f2864538ee8acc64629b8d35c52"
+          }
+        },
+        {
+          "client_id": "996154222634-fblhpet1raej9qofmefge1ljh84saare.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCViIrBaXVKs5XDJfUAXL9h7M56zfBk2lE"
+          "current_key": "AIzaSyA42wwPrqx7WREKe_geCEg7XRyTqr5z2iU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "860749772223-nu9dfkg3fmisc19ud6en8tcq5eeus3l8.apps.googleusercontent.com",
+              "client_id": "996154222634-fblhpet1raej9qofmefge1ljh84saare.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

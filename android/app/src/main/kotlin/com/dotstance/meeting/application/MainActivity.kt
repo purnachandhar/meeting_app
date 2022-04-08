@@ -1,4 +1,4 @@
-package com.example.video_call
+package com.dotstance.meeting.application
 
 import io.flutter.embedding.android.FlutterActivity
 

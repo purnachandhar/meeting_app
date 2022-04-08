@@ -17,11 +17,11 @@ Future<void> main() async {
   if(kIsWeb){
     await Firebase.initializeApp(
         options: FirebaseOptions(
-          apiKey: "AIzaSyDci2mpOPPwpk8GmDLUzjpRl0OJurx_KXM",
-          appId:  "1:860749772223:web:b3a31eb257e59be4519d0a",
-          authDomain: "testcalliing.firebaseapp.com",
-          messagingSenderId: "G-K58E01THLC",
-          projectId: "testcalliing",)
+          apiKey: "AIzaSyAPaDW1NLBmTmJItPXiM2l_yfR4bc0bCIY",
+          appId:  "1:996154222634:web:223fce285adaabcb3bfb53",
+          authDomain: "dotstancemeeting.firebaseapp.com",
+          messagingSenderId: "996154222634",
+          projectId: "dotstancemeeting",)
     );
   }
   await Firebase.initializeApp();
